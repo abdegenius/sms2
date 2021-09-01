@@ -124,7 +124,7 @@
             position: relative;
             height: 60vh;
             overflow-y: scroll;
-            width: 360px;
+            width: 240px;
           }
           .search__input {
             border-top: 1px solid #e0e0e0;
